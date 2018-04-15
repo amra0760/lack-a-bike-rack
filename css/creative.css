@@ -165,6 +165,11 @@ img::-moz-selection {
     color: #F05F40;
   }
 }
+@media only screen and (max-width: 768px) {
+    #menu {
+        display: none;
+    }
+}
 
 header.masthead {
   padding-top: 10rem;
@@ -309,4 +314,14 @@ header.masthead p {
 
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+}
+
+#container{
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+#button{
+  position: relative;
+  margin: 0 auto;
 }
