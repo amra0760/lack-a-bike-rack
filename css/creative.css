@@ -316,9 +316,9 @@ header.masthead p {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
 
-#container{
-  margin-top: 0 !important;
-  padding-top: 0 !important;
+#fault{
+  margin-top: 10 ;
+  padding-top: 10;
 }
 
 #button{
