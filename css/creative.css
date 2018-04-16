@@ -325,3 +325,12 @@ header.masthead p {
   position: relative;
   margin: 0 auto;
 }
+a{
+  overflow: hidden;
+  word-break: break-all
+}
+
+.button{
+  overflow: hidden;
+  word-break: break-all
+}
